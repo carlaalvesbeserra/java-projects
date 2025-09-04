@@ -1,0 +1,36 @@
+public class Main {
+
+    public static void main(String[] args) {
+
+        // This is my first Java Program
+
+        System.out.println("I like pizza!");
+        System.out.println("It's really good!");
+
+	// Variables
+
+        // Primitives
+        int age = 27;
+        double price = 1.99;
+        char symbol = '!';
+        boolean isStudent = true;
+
+        // Reference
+        String name = "Carla";
+
+	// User Input
+
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Enter your name: ");
+        String name = scanner.nextLine();
+
+        System.out.println("Enter your age: ");
+        int age = scanner.nextInt();
+
+        System.out.println("Hello " + name);
+        System.out.println("You are " + age + " years old");
+
+        scanner.close();
+    }
+}
