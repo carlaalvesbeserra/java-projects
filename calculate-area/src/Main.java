@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class CalculateArea {
+public class Main{
 
     public static void main(String[] args) {
 
-        // Calculate are of a rectangle
+        // CALCULATE AREA OF A RECTANGLE 
 
         double width = 0;
         double height = 0;
