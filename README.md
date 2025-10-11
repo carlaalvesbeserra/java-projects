@@ -1,2 +1,2 @@
 # java
-My projects in Java.
+My mini projects in Java.
