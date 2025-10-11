@@ -20,7 +20,7 @@ public class Main{
 
         area = width * height;
 
-        System.out.println("The are is: " + area + " cm²");
+        System.out.println("The area is: " + area + " cm²");
 
         scanner.close();
     }
