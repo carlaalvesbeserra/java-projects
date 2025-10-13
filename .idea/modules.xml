@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/banking-program/banking-program.iml" filepath="$PROJECT_DIR$/banking-program/banking-program.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculate-area/calculate-area.iml" filepath="$PROJECT_DIR$/calculate-area/calculate-area.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculator-program/calculator-program.iml" filepath="$PROJECT_DIR$/calculator-program/calculator-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/number-guessing-game/number-guessing-game.iml" filepath="$PROJECT_DIR$/number-guessing-game/number-guessing-game.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopping-cart/shopping-cart.iml" filepath="$PROJECT_DIR$/shopping-cart/shopping-cart.iml" />
       <module fileurl="file://$PROJECT_DIR$/temperature-converter/temperature-converter.iml" filepath="$PROJECT_DIR$/temperature-converter/temperature-converter.iml" />
       <module fileurl="file://$PROJECT_DIR$/weight-converter/weight-converter.iml" filepath="$PROJECT_DIR$/weight-converter/weight-converter.iml" />
