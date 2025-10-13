@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/number-guessing-game/number-guessing-game.iml" filepath="$PROJECT_DIR$/number-guessing-game/number-guessing-game.iml" />
       <module fileurl="file://$PROJECT_DIR$/rock-paper-scissors/rock-paper-scissors.iml" filepath="$PROJECT_DIR$/rock-paper-scissors/rock-paper-scissors.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopping-cart/shopping-cart.iml" filepath="$PROJECT_DIR$/shopping-cart/shopping-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slot-machine-game/slot-machine-game.iml" filepath="$PROJECT_DIR$/slot-machine-game/slot-machine-game.iml" />
       <module fileurl="file://$PROJECT_DIR$/temperature-converter/temperature-converter.iml" filepath="$PROJECT_DIR$/temperature-converter/temperature-converter.iml" />
       <module fileurl="file://$PROJECT_DIR$/weight-converter/weight-converter.iml" filepath="$PROJECT_DIR$/weight-converter/weight-converter.iml" />
     </modules>
