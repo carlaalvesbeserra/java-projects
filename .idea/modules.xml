@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/calculate-area/calculate-area.iml" filepath="$PROJECT_DIR$/calculate-area/calculate-area.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculator-program/calculator-program.iml" filepath="$PROJECT_DIR$/calculator-program/calculator-program.iml" />
       <module fileurl="file://$PROJECT_DIR$/dice-roller-program/dice-roller-program.iml" filepath="$PROJECT_DIR$/dice-roller-program/dice-roller-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music-player/music-player.iml" filepath="$PROJECT_DIR$/music-player/music-player.iml" />
       <module fileurl="file://$PROJECT_DIR$/number-guessing-game/number-guessing-game.iml" filepath="$PROJECT_DIR$/number-guessing-game/number-guessing-game.iml" />
       <module fileurl="file://$PROJECT_DIR$/rock-paper-scissors/rock-paper-scissors.iml" filepath="$PROJECT_DIR$/rock-paper-scissors/rock-paper-scissors.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopping-cart/shopping-cart.iml" filepath="$PROJECT_DIR$/shopping-cart/shopping-cart.iml" />
