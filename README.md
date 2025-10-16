@@ -1,2 +1,2 @@
 # java
-My mini projects in Java.
+Mini projects to practice my knowledge in Java.
