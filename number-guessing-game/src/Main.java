@@ -29,7 +29,7 @@ public class Main {
             } else if (guess > randomNumber) {
                 System.out.println("TOO HIGH! Try again");
             } else {
-                System.out.println("YOU HAVE WON!!");
+                System.out.println("\nYOU HAVE WON!!");
                 System.out.println("# of attempts: " + attempts);
             }
 
